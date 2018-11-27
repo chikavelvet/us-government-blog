@@ -19,3 +19,23 @@ The [Arab Spring](https://www.history.com/topics/middle-east/arab-spring) is a n
 
 At the time, it seemed like the protests had been wildly successful, with large-scale regime changes and international visibility. Yet, in many of these countries, the problems being protested against at the time have yet to be truly solved, and similar authoritarian regimes have assumed control in the years since.
 
+#### #BlackLivesMatter
+
+<figure>
+  <img src="Alicia Garza.jpg" alt="Alicia Garza"/>
+  <figcaption>Alicia Garza, civil rights activist and coiner of "Black Lives Matter" slogan.</figcaption>
+</figure>
+
+The [#BlackLivesMatter](https://blacklivesmatter.com/) movement is a civil rights movement that focuses on eliminating the unequal treatment of Black Americans in the form of violence by police officers or vigilantes. The movement started in 2013, in response to the [shooting of Trayvon Martin](https://en.wikipedia.org/wiki/Shooting_of_Trayvon_Martin), an incident in which an unarmed 17 year old black male was fatally shot, and the subsequent social outcry it caused. The movement has grown since then, propelled by similar cases of high visibility (notably the shootings of [Alton Sterling](https://en.wikipedia.org/wiki/Shooting_of_Alton_Sterling) and [Philando Castile](https://en.wikipedia.org/wiki/Shooting_of_Philando_Castile)).
+
+<figure>
+  <img src="BLM.jpg" alt="Alicia Garza and fellow activists"/>
+  <figcaption>Young activists, in support of the #BlackLivesMatter movement.</figcaption>
+</figure>
+
+The movement has been noted for it's use of a hashtag (coined originally in a Facebook post by Alicia Garza, pictured above) as both a name, slogan, and symbol of support on social media. It has been described as "not your grandfather's civil rights movement", referring to its strong usage of technology and social media, and the prevalence of tech-savvy youth within its base. Alongside internet-based protest, the group organizes rallies and marches that see high attendence.
+
+The group has seen much publicity, with both considerable support and criticism, including related reaction movements, **#BlueLivesMatter** and **#AllLivesMatter**.
+
+#### #MeToo
+
