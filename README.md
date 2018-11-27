@@ -68,6 +68,10 @@ Evgenyi Morozov, on the other hand, believe the digitalization of social activis
 
 In line with this, others have criticized how sensationalized the hashtag movements can be: a big incident might bring the movement back into popular discourse, but the public might quickly lose interest in the movement after a few weeks with no serious incidents.
 
+#### Demographic Differences
+
+Others have argued that the role of social media might be different in different demographics. For people with fewer resources, social media might provide a platform where no other platform is accessible, either due to monetary or time constraints. In addition, in countries where there is strict authoritarian rule and denial of freedom of speech, social media can similarly provide a safe platform to express anti-establishment political views without the fear associated with traditional displays of protest.[^middle]
+
 ---
 ### How People View Social Media and Activism
 
@@ -82,7 +86,17 @@ Ultimately, it's both. Social media is too big and varied to paint it in broad s
 ---
 ### Bibliography
 
+Anderson, Monica, et al. “Activism in the Social Media Age.” *Pew Research Center: Internet, Science &amp; Tech*, Pew Research Center: Internet, Science &amp; Tech, 11 July 2018, www.pewinternet.org/2018/07/11/activism-in-the-social-media-age/.
 
+Cobb, Jelani. “The Matter of Black Lives.” *The New Yorker*, The New Yorker, 23 Dec. 2017, www.newyorker.com/magazine/2016/03/14/where-is-black-lives-matter-headed.
 
+Day, Elizabeth. “#BlackLivesMatter: the Birth of a New Civil Rights Movement.” *The Guardian*, Guardian News and Media, 19 July 2015, www.theguardian.com/world/2015/jul/19/blacklivesmatter-birth-civil-rights-movement.
+
+Gerbaudo, Paolo. *Tweets and the Streets: Social Media and Contemporary Activism*. Pluto Press, 2012.
+
+History.com Editors. *HISTORY*, A&amp;E Television Networks, 21 Aug. 2018, www.history.com/topics/middle-east/arab-spring.
+
+Iskander, Adel, and Courtney Radsch. *Cyberactivism and the Arab Revolt: Battles Waged Online and Lessons Learned*. YouTube, Middle East Institute, 29 Mar. 2011, www.youtube.com/watch?v=rV2E2T9GFaE.
 
 [^tweets]: *Tweets and the Streets*, Paolo Gerbaudo, p. 7
+[^middle]: *Cyberactivism and the Arab Revolt*, Adel Iskander and Courtney Radsh.
