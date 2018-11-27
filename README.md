@@ -48,3 +48,41 @@ Similar to #BlackLivesMatter, [#MeToo](https://metoomvmt.org/) is a so-called "h
 
 #MeToo has been responsible for several high-profile outings of sexual predators within Hollywood in particular, notably [Harvey Weinstein](https://en.wikipedia.org/wiki/Harvey_Weinstein_sexual_abuse_allegations) and [Kevin Spacey](https://www.vanityfair.com/style/2018/09/kevin-spacey-accused-of-sexual-battery-by-massage-therapist).
 
+---
+
+### Role of Social Media in Activism
+
+These movements are less than five years old, so what kind of outcome they have on society is yet to be determined. However, many scholars have debated what the role in general of social media in activism is, and whether it is beneficial or detrimental. In particular, NYU professor **Clay Shirky** and Belarusan scholar **Evgenyi Morozov** have a lot to say, and little to agree on.
+
+#### Social Media as a Tool for Collective Action
+
+Clay Shirky believes that social media provides "new tools enabling new forms of group formation."[^tweets] It just makes things easier: less cost, fewer obstacles, and more efficient communication. Whereas before, finding like-minded individuals willing to be activists with you would be difficult if not impossible, especially without significant time and money investments, now finding people is as easy as a search bar.
+
+According to him, social media allows people to know more, to be more politically aware and conscious, than in the past, and it enables people to use that new consciousness to enact collective action. 
+
+#### Slacktivism
+
+Evgenyi Morozov, on the other hand, believe the digitalization of social activism has the serious risk of leading to what he and others call "slacktivism".
+
+> For Morozov,  slacktivism is 'feel good activism that has zero political or social impact' but creates 'an illusion of having a meaningful impact on the world without demanding anything more than joining a Facebook group'.[^tweets]
+
+In line with this, others have criticized how sensationalized the hashtag movements can be: a big incident might bring the movement back into popular discourse, but the public might quickly lose interest in the movement after a few weeks with no serious incidents.
+
+---
+### How People View Social Media and Activism
+
+A [Pew Research Center study](http://www.pewinternet.org/2018/07/11/activism-in-the-social-media-age/) was conducted this year that analyzed public tweets and other data, and combined that with a survey of approximately 5000 Americans from diverse backgrounds, to determine how people in America view social media and its effect (positive or negative) on social activism.
+
+One finding of the study is that roughly half of Americans reported that they have engaged in some form of political or social activity on social media within the past year, be it through group formation or collective action, encouraging others to action, researching local protests, or using a hashtag in support of a movement.
+
+However, even given that, most Americans aren't sure how effective social media is for this purpose. Though 64% of Americans reported that they feel social media helps give underrepresented groups a voice, more than three of every four believe that social media distracts from the issues that are important, and as much as 71% agree with the idea of "slacktivism": that social media "makes people believe they're making a difference when they really aren't."
+
+Ultimately, it's both. Social media is too big and varied to paint it in broad strokes: many people can use platforms like Facebook and Twitter to connect with each other, find like-minded activists, and to organize protests and rallies, while many others might not be investing (and might not have) the time and energy required to make any kind of difference. Either way, there aren't any signs that social activism will be returning completely to the ways of the past, so good or bad, the impact of social media will be felt.
+
+---
+### Bibliography
+
+
+
+
+[^tweets]: *Tweets and the Streets*, Paolo Gerbaudo, p. 7
