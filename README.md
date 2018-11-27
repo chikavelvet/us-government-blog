@@ -39,3 +39,12 @@ The group has seen much publicity, with both considerable support and criticism,
 
 #### #MeToo
 
+<figure>
+  <img src="metoo.jpg" alt="MeToo protesters"/>
+  <figcaption>Activists in support of the #MeToo movement.</figcaption>
+</figure>
+
+Similar to #BlackLivesMatter, [#MeToo](https://metoomvmt.org/) is a so-called "hashtag" movement, based around a hashtag. #MeToo focuses on eliminating the high levels of sexual assault and rape experienced by women in America, helping survivors cope with their traumatic experiences, and bringing light to the inadequate way in which the justice system handles cases of sexual assault.
+
+#MeToo has been responsible for several high-profile outings of sexual predators within Hollywood in particular, notably [Harvey Weinstein](https://en.wikipedia.org/wiki/Harvey_Weinstein_sexual_abuse_allegations) and [Kevin Spacey](https://www.vanityfair.com/style/2018/09/kevin-spacey-accused-of-sexual-battery-by-massage-therapist).
+
